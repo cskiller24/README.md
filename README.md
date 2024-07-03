@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Livewire, Laravel, Docker Concepts**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at [Projects Section]([TBD](https://github.com/cskiller24/projects)) _Soon to be a portfolio_
 
 - 📫 How to reach me **cadayongcs@gmail.com**
 
