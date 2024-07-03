@@ -21,6 +21,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cskiller24&label=Profile%20views&color=0e75b6&style=flat" alt="cskiller24" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cskiller24&show_icons=true&locale=en" alt="cskiller24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cskiller24&" alt="cskiller24" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cskiller24&show_icons=true&locale=en&theme=tokyonight" alt="cskiller24" /></p>
+<img align=center alt="cskiller24" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cskiller24&theme=tokyonight" />
